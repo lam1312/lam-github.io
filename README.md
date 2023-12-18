@@ -1,1 +1,1 @@
-# lam-github.io
+# lam.github.io
